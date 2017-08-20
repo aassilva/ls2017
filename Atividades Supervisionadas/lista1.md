@@ -3,7 +3,7 @@
 
 #### 1. Qual o comando para obter a versão instalada do Git?
 <pre>git version</pre>
-
+ 
 #### 2. Qual o efeito da execução de cada um dos comandos abaixo?  
 
 - git config -l 
