@@ -53,7 +53,8 @@ git push
 <pre>git checkout teste.txt</pre>
 
 #### 8. O que deve ser feito para que um determinado diretório do seu repositório seja ignorado pelo Git?
-<pre>Fazer um arquivo chamado .gitignore e dentro do arquivo digita o nome ou endereço da pasta que se quer ignora.</pre>
+<pre>Fazer um arquivo chamado .gitignore e dentro do arquivo digita o nome ou endereço da 
+pasta que se quer ignora.</pre>
 
 #### 9. O que acontece se o seu repositório local for removido?
 <pre>A exclusão de um repositório privado irá apagar todos os seus garfos.
