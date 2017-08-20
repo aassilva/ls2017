@@ -1,7 +1,7 @@
 # Git (exercícios adicionais)
 
 #### 1. Siga atentamente os slides disponíveis [AQUI](https://docs.google.com/presentation/d/183OiLbly9Q80Pv7gl19bZyrGtGwu21r-7s9OIb07xSM/edit#slide=id.g26875a53b_05). Experimente os comandos, ambiente-se com eles. Esclareça suas dúvidas com o professor. Faça uso de repositórios locais e, para boa parte dos comandos, terá que interagir com o GitHub (serviço sugerido na disciplina). Faça isto antes de prosseguir com os demais itens.
-<pre>Feito</pre>
+<pre>Feito</pre> 
 
 #### 2. Qual o comando para que as “marcas” ou tags sejam enviadas para o repositório remoto? (um simples git push não produz este efeito)
 <pre>git push --tags</pre>
