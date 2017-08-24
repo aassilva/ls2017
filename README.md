@@ -16,6 +16,9 @@ Repositório específico para trabalho prático da disciplina Leitura de Softwar
      - [Lista 1](https://github.com/antlisufg/ls2017/blob/master/Atividades%20Supervisionadas/lista1.md)
      - [Lista 2](https://github.com/antlisufg/ls2017/blob/master/Atividades%20Supervisionadas/lista2.md)
      
+* Atividade supervisionada 23/08/2017
+     - [Comandos Parte II](https://github.com/antlisufg/ls2017/wiki/comandos)
+     
      
 ## Atividades Realizadas em Aula
      
