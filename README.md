@@ -25,5 +25,5 @@ Repositório específico para trabalho prático da disciplina Leitura de Softwar
 * Aula 1: 16/08/2017
      - [Plano](https://drive.google.com/file/d/0B2KOoPbti6jsZ3BEaGVVaU82VFU/view)
      
-* Aula 2: 23/08/2017
+* Aula 3: 23/08/2017
      - [Comandos](https://github.com/antlisufg/ls2017/wiki/comandos#aula-3-23082017)
