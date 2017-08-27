@@ -19,6 +19,9 @@ Repositório específico para trabalho prático da disciplina Leitura de Softwar
 * Atividade supervisionada 23/08/2017
      - [Comandos Parte II](https://github.com/antlisufg/ls2017/wiki/comandos#atividade-supervisionada-23082017)
      
+* Atividade supervisionada 26/08/2017
+     - [Environment](https://github.com/antlisufg/ls2017/wiki/environment)
+     
      
 ## Atividades Realizadas em Aula
      
