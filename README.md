@@ -6,6 +6,11 @@ Repositório específico para trabalho prático da disciplina Leitura de Softwar
 * Diário de Classe disponivel [aqui](https://docs.google.com/document/d/16-8p7NiB4MzGEB3JXCTUpW3UNgJbvOOGqh-MO5xyRkg/edit)
 * Professor: [Fábio Nogueira de Lucena](https://github.com/kyriosdata)
 
+* Índice
+    - [Atividades Supervisionadas](https://github.com/antlisufg/ls2017#atividades-supervisionadas)  
+    - [Atividades Realizadas em Aula](https://github.com/antlisufg/ls2017#atividades-realizadas-em-aula)  
+
+
 
 ## Atividades Supervisionadas
      
