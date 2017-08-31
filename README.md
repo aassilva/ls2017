@@ -30,3 +30,6 @@ Repositório específico para trabalho prático da disciplina Leitura de Softwar
      
 * Aula 3: 23/08/2017
      - [Comandos](https://github.com/antlisufg/ls2017/wiki/comandos#aula-3-23082017)
+     
+* Aula 5: 30/08/2017
+     - [Landscape](https://github.com/antlisufg/ls2017/wiki/landscape#aula-5-30082017)
