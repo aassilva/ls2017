@@ -31,6 +31,9 @@ Repositório específico para trabalho prático da disciplina Leitura de Softwar
 * Atividade supervisionada 26/08/2017
      - [Environment](https://github.com/antlisufg/ls2017/wiki/environment)
      
+* Atividade supervisionada 30/08/2017
+     - [Landscape Parte II](https://github.com/antlisufg/ls2017/wiki/landscape#atividade-supervisionada-30082017)
+     
      
 ## Atividades Realizadas em Aula
      
