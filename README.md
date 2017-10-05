@@ -7,3 +7,5 @@ Repositório específico para trabalho prático da disciplina Leitura de Softwar
 * Professor: [Fábio Nogueira de Lucena](https://github.com/kyriosdata)
 
 **Para acesso as atividades supervisionadas e/ou realizadas em aula visite a WIKI clicando [aqui](https://github.com/antlisufg/ls2017/wiki).**
+
+**Aula 10** Link sonarcloud: https://sonarcloud.io/dashboard?id=com.github.lihengming%3Ajava-codes
